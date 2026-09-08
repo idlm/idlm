@@ -9,8 +9,8 @@
 <p align="center">
   <img src="./files/status-badge.svg" alt="online" />
   <img src="./files/keep-quiet-badge.svg" alt="Keep Quiet 2026" />
-  <img src="./files/token-badge.svg" alt="649M tokens / 30d" />
-  <img src="./files/api-badge.svg" alt="$610 API equivalent" />
+  <img src="./files/token-badge.svg" alt="812M tokens / 30d" />
+  <img src="./files/api-badge.svg" alt="$763 API equivalent" />
   <img src="./files/streak-badge.svg" alt="16 day streak" />
 </p>
 
@@ -27,7 +27,7 @@ idlm@github:~$ cat /etc/motd
 > builder of personal agent systems
 > daily operators: grok · codex · claude-code
 > current exploit: PAIOS — a private personal AI operating system
-> policy: 安静地做东西. keep quiet.
+> policy: 当你不再恐惧时，害怕就变成了兴奋剂。
 
 idlm@github:~$ cat /var/log/tokens
 ```
