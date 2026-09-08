@@ -20,7 +20,7 @@
   <img src="./files/grok-badge.svg" alt="Grok" />
   <img src="./files/gemini-badge.svg" alt="Gemini" />
   <img src="https://img.shields.io/badge/Python-00ff41?style=flat&labelColor=031403&color=00ff41" alt="Python" />
-  <img src="./files/php-badge.svg" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-00ff41?style=flat&labelColor=031403&color=00ff41" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-00ff41?style=flat&labelColor=031403&color=00ff41" alt="TypeScript" />
 </p>
 
