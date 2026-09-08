@@ -71,7 +71,12 @@ cpa-codex-setup               one-shot Codex via CLIProxyAPI
 | [`Python-2-AI-Agent`](https://github.com/idlm/Python-2-AI-Agent) | agent experiments |
 
 ```txt
-idlm@github:~$ echo keep_quiet
-keep_quiet
-idlm@github:~$ █
+idlm@github:~$ ./keep_quiet --stealth
+[*] stdout muted
+[*] history wiped
+[+] session sealed
 ```
+
+<p align="center">
+  <img src="./files/session-end.svg" alt="session sealed" />
+</p>

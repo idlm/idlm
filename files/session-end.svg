@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="keep_quiet session close">
+  <title>session sealed</title>
+  <style>
+    .fm { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .blink { animation: blink 1.1s step-end infinite; }
+    @keyframes blink { 0%,54% { opacity:1 } 55%,100% { opacity:0 } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect width="880" height="168" fill="#050805"/>
+  <rect x="8" y="8" width="864" height="152" fill="none" stroke="#00ff41" stroke-opacity=".55"/>
+  <rect x="12" y="12" width="856" height="144" fill="none" stroke="#00ff41" stroke-opacity=".18"/>
+  <circle cx="32" cy="28" r="4" fill="#ff4d4d"/>
+  <circle cx="48" cy="28" r="4" fill="#f2c94c"/>
+  <circle cx="64" cy="28" r="4" fill="#00ff41"/>
+  <text class="fm" x="84" y="32" font-size="11" fill="#3d8a3d">tty/0  ·  idlm@github  ·  session close</text>
+  <line x1="13" y1="42" x2="867" y2="42" stroke="#00ff41" stroke-opacity=".2"/>
+  <text class="fm" x="28" y="66" font-size="13" fill="#3d8a3d">idlm@github:~$</text>
+  <text class="fm" x="148" y="66" font-size="13" fill="#00ff41">./keep_quiet --stealth</text>
+  <text class="fm" x="28" y="88" font-size="13" fill="#7CFF9A">[*] stdout muted</text>
+  <text class="fm" x="28" y="108" font-size="13" fill="#7CFF9A">[*] history wiped</text>
+  <text class="fm" x="28" y="128" font-size="13" fill="#00ff41">[+] session sealed  ·  exit 0</text>
+  <text class="fm" x="28" y="150" font-size="13" fill="#3d8a3d">connection closed.</text>
+  <rect class="blink" x="178" y="138" width="8" height="14" fill="#00ff41"/>
+</svg>
