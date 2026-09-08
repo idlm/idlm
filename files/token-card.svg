@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="256" viewBox="0 0 880 256" role="img" aria-label="AI coding usage last 30 days: 649M tokens, about $610 API-equivalent, Grok 41%, Codex 33%, Claude Code 26%, best day 49M on Sep 08, 16 day streak">
+<title>token HUD</title>
+<style>
+.fm { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.blink { animation: blink 1.2s step-end infinite; }
+@keyframes blink { 0%,62% { opacity:1 } 63%,100% { opacity:.15 } }
+@media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+</style>
+<rect width="880" height="256" fill="#050805"/>
+<rect x="8" y="8" width="864" height="240" fill="none" stroke="#00ff41" stroke-opacity=".7"/>
+<rect x="12" y="12" width="856" height="232" fill="none" stroke="#00ff41" stroke-opacity=".18"/>
+<text class="fm" x="28" y="40" font-size="11" fill="#3d8a3d">TOKENS / LAST 30 DAYS</text>
+<text class="fm" x="28" y="78" font-size="36" font-weight="700" fill="#00ff41">649M</text>
+<text class="fm" x="28" y="104" font-size="12" fill="#7CFF9A">API-EQUIVALENT  $610</text>
+<text class="fm" x="28" y="132" font-size="12" fill="#3d8a3d">BEST DAY  <tspan fill="#00ff41" font-weight="700">49M</tspan>  /  SEP 08</text>
+<text class="fm" x="28" y="156" font-size="12" fill="#3d8a3d">AVG  <tspan fill="#00ff41" font-weight="700">22M</tspan>  /  ACTIVE DAY</text>
+<text class="fm" x="28" y="180" font-size="12" fill="#3d8a3d">ACTIVE  <tspan fill="#00ff41" font-weight="700">29/30</tspan></text>
+
+<text class="fm" x="470" y="40" font-size="12" fill="#00ff41">GROK</text>
+<text class="fm" x="852" y="40" font-size="12" fill="#00ff41" text-anchor="end">264M / 41%</text>
+<rect x="470" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="488" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="506" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="524" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="542" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="560" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="578" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="596" y="48" width="16" height="16" fill="#00ff41"/>
+<rect x="614" y="48" width="16" height="16" fill="#123312"/>
+<rect x="632" y="48" width="16" height="16" fill="#123312"/>
+<rect x="650" y="48" width="16" height="16" fill="#123312"/>
+<rect x="668" y="48" width="16" height="16" fill="#123312"/>
+<rect x="686" y="48" width="16" height="16" fill="#123312"/>
+<rect x="704" y="48" width="16" height="16" fill="#123312"/>
+<rect x="722" y="48" width="16" height="16" fill="#123312"/>
+<rect x="740" y="48" width="16" height="16" fill="#123312"/>
+<rect x="758" y="48" width="16" height="16" fill="#123312"/>
+<rect x="776" y="48" width="16" height="16" fill="#123312"/>
+<rect x="794" y="48" width="16" height="16" fill="#123312"/>
+<rect x="812" y="48" width="16" height="16" fill="#123312"/>
+<text class="fm" x="470" y="92" font-size="12" fill="#2ee6a6">CODEX</text>
+<text class="fm" x="852" y="92" font-size="12" fill="#2ee6a6" text-anchor="end">214M / 33%</text>
+<rect x="470" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="488" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="506" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="524" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="542" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="560" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="578" y="100" width="16" height="16" fill="#2ee6a6"/>
+<rect x="596" y="100" width="16" height="16" fill="#123312"/>
+<rect x="614" y="100" width="16" height="16" fill="#123312"/>
+<rect x="632" y="100" width="16" height="16" fill="#123312"/>
+<rect x="650" y="100" width="16" height="16" fill="#123312"/>
+<rect x="668" y="100" width="16" height="16" fill="#123312"/>
+<rect x="686" y="100" width="16" height="16" fill="#123312"/>
+<rect x="704" y="100" width="16" height="16" fill="#123312"/>
+<rect x="722" y="100" width="16" height="16" fill="#123312"/>
+<rect x="740" y="100" width="16" height="16" fill="#123312"/>
+<rect x="758" y="100" width="16" height="16" fill="#123312"/>
+<rect x="776" y="100" width="16" height="16" fill="#123312"/>
+<rect x="794" y="100" width="16" height="16" fill="#123312"/>
+<rect x="812" y="100" width="16" height="16" fill="#123312"/>
+<text class="fm" x="470" y="144" font-size="12" fill="#7CFF9A">CLAUDE CODE</text>
+<text class="fm" x="852" y="144" font-size="12" fill="#7CFF9A" text-anchor="end">171M / 26%</text>
+<rect x="470" y="152" width="16" height="16" fill="#7CFF9A"/>
+<rect x="488" y="152" width="16" height="16" fill="#7CFF9A"/>
+<rect x="506" y="152" width="16" height="16" fill="#7CFF9A"/>
+<rect x="524" y="152" width="16" height="16" fill="#7CFF9A"/>
+<rect x="542" y="152" width="16" height="16" fill="#7CFF9A"/>
+<rect x="560" y="152" width="16" height="16" fill="#123312"/>
+<rect x="578" y="152" width="16" height="16" fill="#123312"/>
+<rect x="596" y="152" width="16" height="16" fill="#123312"/>
+<rect x="614" y="152" width="16" height="16" fill="#123312"/>
+<rect x="632" y="152" width="16" height="16" fill="#123312"/>
+<rect x="650" y="152" width="16" height="16" fill="#123312"/>
+<rect x="668" y="152" width="16" height="16" fill="#123312"/>
+<rect x="686" y="152" width="16" height="16" fill="#123312"/>
+<rect x="704" y="152" width="16" height="16" fill="#123312"/>
+<rect x="722" y="152" width="16" height="16" fill="#123312"/>
+<rect x="740" y="152" width="16" height="16" fill="#123312"/>
+<rect x="758" y="152" width="16" height="16" fill="#123312"/>
+<rect x="776" y="152" width="16" height="16" fill="#123312"/>
+<rect x="794" y="152" width="16" height="16" fill="#123312"/>
+<rect x="812" y="152" width="16" height="16" fill="#123312"/>
+
+<rect x="28" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="42" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="56" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="70" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="84" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="98" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="112" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="126" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="140" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="154" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="168" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="182" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="196" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="210" y="208" width="10" height="10" fill="#123312"/>
+<rect x="224" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="238" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="252" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="266" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="280" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="294" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="308" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="322" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="336" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="350" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="364" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="378" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="392" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="406" y="208" width="10" height="10" fill="#00ff41"/>
+<rect x="420" y="208" width="10" height="10" fill="#00ff41"/>
+<rect class="blink" x="434" y="208" width="10" height="10" fill="#00ff41"/>
+<text class="fm" x="460" y="217" font-size="11" fill="#3d8a3d"><tspan fill="#00ff41" font-weight="700">16/30</tspan> DAY STREAK</text>
+<text class="fm blink" x="852" y="216" font-size="11" fill="#00ff41" text-anchor="end">&gt; PRESS START</text>
+<text class="fm" x="28" y="240" font-size="9" fill="#3d8a3d">GEN 2026-09-08 17:48 UTC  ·  estimated local usage</text>
+</svg>

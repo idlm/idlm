@@ -9,6 +9,12 @@
 <p align="center">
   <img src="./files/status-badge.svg" alt="online" />
   <img src="./files/keep-quiet-badge.svg" alt="Keep Quiet 2026" />
+  <img src="./files/token-badge.svg" alt="649M tokens / 30d" />
+  <img src="./files/api-badge.svg" alt="$610 API equivalent" />
+  <img src="./files/streak-badge.svg" alt="16 day streak" />
+</p>
+
+<p align="center">
   <img src="./files/claude-code-badge.svg" alt="Claude Code" />
   <img src="./files/codex-badge.svg" alt="Codex" />
   <img src="./files/grok-badge.svg" alt="Grok" />
@@ -23,6 +29,18 @@ idlm@github:~$ cat /etc/motd
 > current exploit: PAIOS — a private personal AI operating system
 > policy: 安静地做东西. keep quiet.
 
+idlm@github:~$ cat /var/log/tokens
+```
+
+<p align="center">
+  <img src="./files/token-card.svg" alt="token HUD last 30 days" />
+</p>
+
+<p align="center">
+  <img src="./files/token-bar.svg" alt="daily token chart" />
+</p>
+
+```txt
 idlm@github:~$ curl https://idlm.github.io
 ```
 
